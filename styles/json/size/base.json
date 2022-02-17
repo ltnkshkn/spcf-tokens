@@ -1,0 +1,14 @@
+{
+  "size": {
+    "base": {
+      "sizeSpacingXs": { "value": "4px" },
+      "sizeSpacingXl": { "value": "48px" },
+      "sizeSpacingSm": { "value": "16px" },
+      "sizeSpacingS": { "value": "8px" },
+      "sizeSpacingMd": { "value": "24px" },
+      "sizeBreakpointSm": { "value": "768px" },
+      "sizeBreakpointMd": { "value": "1024px" },
+      "sizeBreakpointLg": { "value": "1440px" }
+    }
+  }
+}

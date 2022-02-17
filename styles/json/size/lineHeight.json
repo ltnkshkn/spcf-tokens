@@ -1,0 +1,20 @@
+{
+  "size": {
+    "lineHeight": {
+      "regularText600": { "value": "64px" },
+      "regularText500": { "value": "48px" },
+      "regularText50": { "value": "16px" },
+      "regularText400": { "value": "32px" },
+      "regularText300": { "value": "32px" },
+      "regularText200": { "value": "24px" },
+      "regularText100": { "value": "24px" },
+      "boldText600Bold": { "value": "64px" },
+      "boldText50Bold": { "value": "16px" },
+      "boldText500Bold": { "value": "48px" },
+      "boldText400Bold": { "value": "32px" },
+      "boldText300Bold": { "value": "32px" },
+      "boldText200Bold": { "value": "24px" },
+      "boldText100Bold": { "value": "24px" }
+    }
+  }
+}

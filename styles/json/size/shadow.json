@@ -1,0 +1,30 @@
+{
+  "size": {
+    "shadow": {
+      "shadow50": {
+        "0": { "offsetY": { "value": "1px" }, "blur": { "value": "2px" } },
+        "1": { "blur": { "value": "2px" } }
+      },
+      "shadow300": {
+        "0": { "offsetY": { "value": "12px" }, "blur": { "value": "15px" } },
+        "1": { "offsetY": { "value": "8px" }, "blur": { "value": "8px" } },
+        "2": { "offsetY": { "value": "4px" }, "blur": { "value": "4px" } },
+        "3": { "offsetY": { "value": "2px" }, "blur": { "value": "2px" } },
+        "4": { "offsetY": { "value": "1px" }, "blur": { "value": "2px" } }
+      },
+      "shadow200": {
+        "0": { "offsetY": { "value": "16px" }, "blur": { "value": "16px" } },
+        "1": { "offsetY": { "value": "6px" }, "blur": { "value": "8px" } },
+        "2": { "offsetY": { "value": "2px" }, "blur": { "value": "4px" } },
+        "3": { "offsetY": { "value": "1px" }, "blur": { "value": "2px" } },
+        "4": { "blur": { "value": "2px" } }
+      },
+      "shadow100": {
+        "0": { "offsetY": { "value": "3px" }, "blur": { "value": "4px" } },
+        "1": { "offsetY": { "value": "2px" }, "blur": { "value": "4px" } },
+        "2": { "offsetY": { "value": "1px" }, "blur": { "value": "2px" } },
+        "3": { "blur": { "value": "2px" } }
+      }
+    }
+  }
+}

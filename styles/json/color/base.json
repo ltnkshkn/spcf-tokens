@@ -1,0 +1,27 @@
+{
+  "color": {
+    "base": {
+      "white": { "value": "rgb(255, 255, 255)" },
+      "greyGrey50": { "value": "rgb(242, 244, 248)" },
+      "greyGrey400": { "value": "rgb(54, 65, 94)" },
+      "greyGrey300": { "value": "rgb(135, 145, 170)" },
+      "greyGrey200": { "value": "rgb(166, 178, 209)" },
+      "greyGrey100": { "value": "rgb(215, 221, 237)" },
+      "complementaryRed50": { "value": "rgb(255, 239, 239)" },
+      "complementaryRed200": { "value": "rgb(229, 23, 23)" },
+      "complementaryRed100": { "value": "rgb(255, 102, 102)" },
+      "complementaryPurple50": { "value": "rgb(238, 236, 253)" },
+      "complementaryPurple200": { "value": "rgb(96, 71, 235)" },
+      "complementaryPurple100": { "value": "rgb(143, 125, 241)" },
+      "complementaryOrange50": { "value": "rgb(254, 246, 224)" },
+      "complementaryOrange200": { "value": "rgb(229, 107, 7)" },
+      "complementaryOrange100": { "value": "rgb(242, 152, 48)" },
+      "complementaryGreen50": { "value": "rgb(232, 248, 238)" },
+      "complementaryGreen200": { "value": "rgb(11, 158, 70)" },
+      "complementaryGreen100": { "value": "rgb(55, 200, 113)" },
+      "blueBlue50": { "value": "rgb(230, 244, 255)" },
+      "blueBlue200": { "value": "rgb(0, 108, 204)" },
+      "blueBlue100": { "value": "rgb(0, 135, 255)" }
+    }
+  }
+}

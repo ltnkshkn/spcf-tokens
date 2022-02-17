@@ -1,0 +1,20 @@
+{
+  "size": {
+    "font": {
+      "regularText600": { "value": "40px" },
+      "regularText500": { "value": "32px" },
+      "regularText50": { "value": "12px" },
+      "regularText400": { "value": "24px" },
+      "regularText300": { "value": "20px" },
+      "regularText200": { "value": "16px" },
+      "regularText100": { "value": "14px" },
+      "boldText600Bold": { "value": "40px" },
+      "boldText50Bold": { "value": "12px" },
+      "boldText500Bold": { "value": "32px" },
+      "boldText400Bold": { "value": "24px" },
+      "boldText300Bold": { "value": "20px" },
+      "boldText200Bold": { "value": "16px" },
+      "boldText100Bold": { "value": "14px" }
+    }
+  }
+}
