@@ -1,0 +1,27 @@
+{
+    "repository": "@playplay/design-tokens",
+    "head": "main",
+    "base": "main",
+    "rules": [{
+            "name": "Design Tokens",
+            "path": "styles/json/",
+            "filter": {
+                "types": ["color", "measurement", "shadow", "textStyle"]
+            },
+            "parsers": [{
+                "name": "to-style-dictionary",
+                "options": {
+                    "fontSizeFormat": "px"
+                }
+
+            }]
+        },
+        {
+            "name": "Assets",
+            "path": "assets/",
+            "filter": {
+                "types": ["vector"]
+            }
+        }
+    ]
+}
